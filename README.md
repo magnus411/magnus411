@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magnus Gjerstad</h1>
-<h3 align="center">A scrub programmer doing fun projects to learn and become a better developer. Currently starting NTNU Dataineniør</h3>
+<h3 align="center">A scrub programmer doing fun projects to learn how to become a better developer. Starting NTNU Dataineniør in a week✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnus411&label=Profile%20views&color=0e75b6&style=flat" alt="magnus411" /> </p>
 
