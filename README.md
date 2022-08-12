@@ -13,6 +13,13 @@
 
 - ⚡ Fun fact: **Quite ok at bouldering**
 
+<h3 align="left">Work / Experience:</h3>
+<p>I currently Work at Jotunheimen E-sports center as a Technical Manager and the Design & Content Producer. My work consists of everything from developing new systems and integration that takes the workload of the employees, configuring the server, marketing stategies and SEO, creating websites,3D modeling, making logos and designs, taking photos and editing videos, and a lot more.</p>
+<br/>
+<p>I have also worked as a consultant for many buisnesses creating websites.></p>
+<p>I was also a Marketing Consultent for Ducati Trondheim & Autosport</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/magnus-gjerstad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="magnus-gjerstad" height="30" width="40" /></a>
