@@ -12,6 +12,8 @@
 - 📫 How to reach me: **magnusgjerstad00@gmail.com**
 
 - ⚡ Fun fact: **Quite ok at bouldering**
+<h3 align="left">Im quite new to this, so Im still a beginner</h3>
+<p>But I am quite good at Googeling and learning new stuff, so I can usually develope what I set out to develope</p>
 
 <h3 align="left">Work / Experience:</h3>
 <p>I currently Work at Jotunheimen E-sports center as a Technical Manager and the Design & Content Producer. My work consists of everything from developing new systems and integration that takes the workload of the employees, configuring the server, marketing stategies and SEO, creating websites,3D modeling, making logos and designs, taking photos and editing videos, and a lot more.</p>
