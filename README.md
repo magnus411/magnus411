@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **Quite ok at bouldering**
 <h3 align="left">Im quite new to this, so Im still a beginner</h3>
 <p>But I am quite good at Googeling and learning new stuff, so I can usually develope what I set out to develope</p>
-<h3 align="center">8 Active Repos, but dont know if I can show them yet</h3>
+<h3 align="center">12 Active Repos, but dont know if I can show them yet</h3>
 <h4 align="center">Send me an email if you want to hire me / talk to me, and I can show you what I have worked on:) </h4>
 
 
