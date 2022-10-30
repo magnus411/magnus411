@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cleo](https://github.com/magnus411/Cleo)
 
-- 🌱 I’m currently learning **NextJs, Python, Firebase & Postgresql**
+- 🌱 I’m currently learning **NextJs, Python, Java & Postgresql**
 
 - 👨‍💻 All of my projects are available at ["In development"]
 
