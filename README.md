@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magnus Gjerstad</h1>
-<h3 align="center"> Currently studying at NTNU to become a Computer Engineer✌️</h3>
+<h3 align="center"> Studying Computer Engineering at NTNU✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnus411&label=Profile%20views&color=0e75b6&style=flat" alt="magnus411" /> </p>
 
