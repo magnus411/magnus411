@@ -1,22 +1,10 @@
 <h1 align="center">Hi 👋, I'm Magnus Gjerstad</h1>
-<h3 align="center">A scrub programmer doing fun projects to learn how to become a better developer. Currently studying at NTNU to become a Computer Engineer✌️</h3>
+<h3 align="center"> Currently studying at NTNU to become a Computer Engineer✌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnus411&label=Profile%20views&color=0e75b6&style=flat" alt="magnus411" /> </p>
 
-- 🔭 I’m currently working on [Cleo](https://github.com/magnus411/Cleo)
-
-- 🌱 I’m currently learning **NextJs, Python, Java & Postgresql**
-
-- 👨‍💻 All of my projects are available at ["In development"]
 
 - 📫 How to reach me: **magnusgjerstad00@gmail.com**
-
-- ⚡ Fun fact: **Quite ok at bouldering**
-<h3 align="left">Im quite new to this, so Im still a beginner</h3>
-<p>But I am quite good at Googeling and learning new stuff, so I can usually develope what I set out to develope</p>
-<h3 align="center">12 Active Repos, but dont know if I can show them yet</h3>
-<h4 align="center">Send me an email if you want to hire me / talk to me, and I can show you what I have worked on:) </h4>
-
 
 <h3 align="left">Work / Experience:</h3>
 <p>I currently Work at Jotunheimen E-sports center as a Technical Manager and the Design & Content Producer. My work consists of everything from developing new systems and integration that takes the workload of the employees, configuring the server, marketing stategies and SEO, creating websites,3D modeling, making logos and designs, taking photos and editing videos, and a lot more.</p>
